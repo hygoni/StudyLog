@@ -35,11 +35,11 @@ for dir in dirs:
                     hours[0] = hours[0][:-5]
                     statDict[stat[0]] += float(hours[0])
 
-output = 'Since 2019-07-26'
+output = 'Since 2019-07-26\n'
 
 for stat in statDict:
     output += '### {} : {} hours\n\n'.format(stat, statDict[stat])
     
-f = open('Stat.md', 'w+')
+f = open('stat.md', 'w+')
 f.write(output)
 f.close()
