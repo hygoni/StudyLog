@@ -1,6 +1,7 @@
-### [Algorithm] Solved algorithm 8 problems (3.5 hours)
+### [Algorithm] Solved algorithm 8 problems & watched a online course (4 hours)
 #### Learned : 
 - how and why to use BufferedReader, BufferedWriter in Java
+- what stable sort algorithm is
 
 ### [Programming] wrote code of CNUNotifier (2 hours)
 #### Learned : 
