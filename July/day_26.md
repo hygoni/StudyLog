@@ -2,7 +2,7 @@
 #### Learned : 
 - how and why to use BufferedReader, BufferedWriter in Java
 
-### [Coding] wrote code of CNUNotifier (2 hours)
+### [Programming] wrote code of CNUNotifier (2 hours)
 #### Learned : 
 - just wrote code
 
