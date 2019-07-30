@@ -3,6 +3,6 @@
 - added german department to CNUNotifier
 - learned about mysql connection closing itself
 
-## [Deeplearning] : VGG16 transfer learning (2 hours)
+## [DeepLearning] : VGG16 transfer learning (2 hours)
 ### Learned :
 - what is, and how to of transfer learning (transfer learning is amazing..!)
